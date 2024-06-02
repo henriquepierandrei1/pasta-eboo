@@ -315,6 +315,10 @@ header{
   .custom-checkbox:checked ~ .checkmark:after {
     display: block;
   }
+
+  h3{
+    font-size: 4em;
+   }
   
   @keyframes checkAnim {
     0% {
@@ -336,6 +340,11 @@ header{
     .carousel-control-prev,.carousel-control-next{
         background-color: transparent;
         margin: 10% 0% 0% 0%;
+    }
+
+    h3{
+        font-size: 2.5em;
+        
     }
 
     #dr-div{
