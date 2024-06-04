@@ -86,7 +86,7 @@ body{
 
 
 .article-01{
-    background: linear-gradient(135deg, #5e921e 0%, #62ff1a 50%, #32cf02 100%);
+    background: linear-gradient(135deg, #0f0f0f 0%, #080808 50%, #0f0f0f 100%);
     width: 95%;
     padding-bottom: 3%;
     margin: auto;
@@ -98,6 +98,7 @@ body{
 .strong-light{
     background-color: white;
     padding: 5px;
+    color: #0f0f0f;
     font-weight: 900;
 }
 
@@ -335,6 +336,7 @@ header{
   
   .custom-checkbox:checked ~ .checkmark:after {
     animation: checkAnim 0.2s forwards;
+    
   }
   
 
