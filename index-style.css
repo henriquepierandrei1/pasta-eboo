@@ -181,6 +181,12 @@ h2{
     transition-duration: 1s;
 }
 
+#ebook-capa{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
 .btn-02{
     background-color: rgb(13, 90, 255);
     width: max-content;
@@ -430,6 +436,10 @@ header{
 
     #div-opc{
         flex-direction: column;
+    }
+
+    #ebook-capa{
+        width: 100%;
     }
 
     .article-02{
